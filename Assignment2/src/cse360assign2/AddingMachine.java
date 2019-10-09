@@ -56,7 +56,7 @@ public class AddingMachine {
 	 *  clears history as well as the total
 	 */
 	public void clear() {
-		receipt = "";	//clears history
+		receipt = "0";	//clears history
 		total = 0;	//returns the total to 0
 		
 	}
